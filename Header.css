@@ -1,0 +1,206 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+
+h1 {
+    background-color: rgb(119, 136, 153);
+    font-size: 28px;
+}
+h3{
+    font-size: 100px;
+}
+
+.Select {
+    font-size: 20px;
+    text-align: center;
+    display:flex;
+    flex-direction: row;
+    margin-left: 600px;
+}
+.title 
+{
+    font-size: 20px;
+    width: 500px;
+    margin-left: 200px;
+}
+.t 
+{
+    margin-left: 210px;
+}
+.between.title input 
+{
+   margin-left: -10px;
+    width: 500px;
+}
+.bottom{
+    font-size: 20px;
+    margin-left: -130px;
+    padding-top: 20px;
+
+}
+.content
+{
+    width: 800px;
+    height: 200px;
+}
+
+.between {
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+
+.bottom {
+    width: 726px;
+    margin-left: 620px;
+    display: flex; 
+    flex-direction: row;
+}
+
+.descript {
+    margin-top: 20px;
+    margin-left: 350px;
+    font-size: 20px;
+
+}
+
+.abs 
+{
+    text-align: center;
+    margin-left: -600px;
+}
+.bottom4
+{
+    display:flex;
+    flex-direction: row;
+    width: 795px;
+    margin-left: 365px;
+    
+}
+
+.Tags {
+    margin-top: 10px;
+    margin-left: 350px;
+    font-size: 20px;
+    
+}
+
+.Tags input {
+    width: 732px;
+    font-size: 17px;
+    margin-left: 4px;
+   
+   
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 730px;
+    font-size: 20px;
+    background-color: darkcyan;
+    font-weight: bold;
+    width: 10%;
+}
+
+button:hover {
+    opacity: 0.3s;
+    background-color: rgb(95, 158, 160);
+}
+
+
+.Article {
+    margin-top: 10px;
+    font-size: 20px;
+    padding-left: 350px;
+}
+
+.Article textarea {
+    width: 790px;
+    height: 250px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+}
+h1 
+{
+    text-align: center;
+}
+.diya
+{
+    margin-left: -460px;
+    font-size: 20px;
+ 
+
+}
+/* .text 
+{
+    width: 500px;
+} */
+.Image 
+{
+    margin-left:350px;
+    padding-top: 20px;
+    font-size: 20px;
+    
+
+}
+.img 
+{
+    display:flex;
+    flex-direction: row;
+    margin-left: 400px;
+    padding-top:20px;
+}
+.input 
+{
+    margin-left: 100px;
+    margin-top: -20px;
+}
+.clicks button
+{
+    display: flex;
+    flex-direction: row;
+    margin-top:-5px;
+    margin-left: 900px;
+    
+    
+}
+.button1
+{
+ 
+    
+}
+.Image input 
+{
+    width: 300px;
+}
+.imgbuttons button {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-top: 2px; 
+    
+}
+.browse 
+{
+    margin-left: 200px;
+}
+.button 
+{
+    margin-top: 20px;
+    margin-left: 800px;
+    width: 100px;
+}
+.bottom2
+{
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    height: 100px;
+    margin-left: 308px
+     
+}
+ 
